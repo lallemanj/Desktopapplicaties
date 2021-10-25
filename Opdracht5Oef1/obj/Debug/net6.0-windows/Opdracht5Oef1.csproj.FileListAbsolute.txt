@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.Form1.resources
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\bin\Debug\net6.0-windows\Opdracht5Oef1.exe
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\bin\Debug\net6.0-windows\Opdracht5Oef1.deps.json
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\bin\Debug\net6.0-windows\Opdracht5Oef1.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\bin\Debug\net6.0-windows\Opdracht5Oef1.dll
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\bin\Debug\net6.0-windows\ref\Opdracht5Oef1.dll
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\bin\Debug\net6.0-windows\Opdracht5Oef1.pdb
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.dll
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\ref\Opdracht5Oef1.dll
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.pdb
+C:\Users\Gebruiker\source\repos\Opdracht5Oef1\obj\Debug\net6.0-windows\Opdracht5Oef1.genruntimeconfig.cache
